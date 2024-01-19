@@ -3,7 +3,7 @@
 
 
 Repo:
-Link: https://ucsb-cs156-w24/STARTER-jpa02](http://jpa02-lpullela.dokku-03.cs.ucsb.edu)
+Link: http://jpa02-lpullela.dokku-03.cs.ucsb.edu
 
 
 
